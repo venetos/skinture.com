@@ -51,7 +51,6 @@
       <h3>About</h3>
       <hr>
 
-      <h4>Skinture</h4>
       <p>Wir, die Firma Skinture Cosmetics, sind eine im Jahre 2021 gegründete Kosmetikfirma mit Sitz in der Erfinderregion Deutschlands, Baden-Württemberg. Unser Schwerpunkt liegt besonders auf der Herstellung von hochwertiger und dabei umweltfreundlicher Naturkosmetik. Diese Idee ist uns gekommen, als wir uns genauer mit Naturkosmetik auseinandersetzten, denn dabei ist uns aufgefallen, dass es keine wirkliche als solche hochwertige Naturkosmetikhandcreme für junge Leute gibt. Das war für uns ein Missstand, welchen wir nicht länger ungelöst lassen wollten, denn unsere Haut und besonders die unserer Hände ist ein Organ, welches genauso durch gesunde Ernährung gepflegt werden muss wie unser Herz. Aus diesem Grunde haben wir uns zu dritt an die Entwicklung einer solchen Handcreme gemacht. Hierbei wollten wir jedoch einen anderen Ansatz wählen als die bestehenden Firmen, denn unsere Handcreme sollte nicht den Fokus auf unseren Profit legen, sondern vielmehr auf den des Kunden. Deshalb haben wir unsere Handcreme auf Basis wissenschaftlicher Umfragedaten entwickelt. Das Produkt dieser Arbeit ist eine perfekt auf den Kunden zugeschnittene Handcreme von welcher jeder profitiert, die Umwelt, die Pflanzen, die an der Herstellung Beteiligten Kräfte und natürlich Sie.  </p>
       </section>
 
@@ -60,7 +59,8 @@
     <section id="product">
       <h3>Product</h3>
       <hr>
-
+            <p>Unsere vegane Skinture Handcreme spendet Feuchtigkeit, schützt und pflegt die Hände. Sie versorgt die Hände augenblicklich nach dem Auftragen mit Feuchtigkeit, so dass sie ihre Geschmeidigkeit und Glätte zurückgewinnen. Die leichte, auf hochwertigen ätherischen Ölen basierende Formel zieht sofort ein und verleiht empfindlicher, gereizter Haut ein angenehmes Gefühl. Durch ihren erfrischenden und angenehmen Duft aus echtem ätherischem Citrusöl belebt sie die Sinne. Dank der handlichen Größe passt Skinture wunderbar in jede Handtasche - so können Sie auch unterwegs bei Bedarf ihren Händen den Schutz verleihen den sie verdienen, denn auch ihre Haut ist ein Organ. </p>
+            <h6>Inhaltsstoffe: Wasser, Sheabutter, Kokosöl, Macadamianussöl, Aloe Vera 10-fach, Cetylalkohol, Pentylene Glycol, Glycerin, Fluidlecithin Super, Paraben K, Duftöle (Ylang-Ylang, Zitronenöl, Orangenöl) </h6>
     </section>
 
     <!-- CONTACT --------------------------------->
